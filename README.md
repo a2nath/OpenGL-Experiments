@@ -31,4 +31,4 @@ Copyright (C) 2016 Abhimanyu Nath <<abhimanyu4@gmail.com>>
 
 ### You can watch the TRON-Legacy themed maze run demo from this [link][demo]. Be sure to switch to 1080p 60-FPS and turn on your speakers :)
 
-[demo]: https://youtu.be/fwXJ8bnwY8s "OpenGL TRON maze demo"
+[demo]: https://youtu.be/wPBrqv83Cro "OpenGL TRON maze demo"
